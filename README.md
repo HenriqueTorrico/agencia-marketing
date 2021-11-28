@@ -7,11 +7,12 @@
 <br>
 
 # 📍 Algumas Imagens
-![imagem01](https://user-images.githubusercontent.com/64800211/142291666-da773f56-60c9-41fb-88fe-a0f28656b102.jpg)
-![imagem02](https://user-images.githubusercontent.com/64800211/142291713-96011e70-5254-42f5-a07f-930c3b51f62c.jpg)
-![imagem03](https://user-images.githubusercontent.com/64800211/142291716-238c0fb7-c256-42a2-8967-665331c192f4.jpg)
-![imagem04jpg](https://user-images.githubusercontent.com/64800211/142291718-19030062-76e1-4fda-bd73-42fbf3b48b02.jpg)
-![imagem05jpg](https://user-images.githubusercontent.com/64800211/142291720-fe4ffe39-6bee-4900-848b-5498e31caf3e.jpg)
+
+![img01](https://user-images.githubusercontent.com/64800211/143725415-baafc384-10e4-40c6-8072-cd9d6fd84cea.jpg)
+![img02](https://user-images.githubusercontent.com/64800211/143725411-0a450a2b-4611-48c4-a668-66ae1cbe37e4.jpg)
+![img03](https://user-images.githubusercontent.com/64800211/143725412-7a524434-ee9d-4e6d-8876-75a9b6d951d8.jpg)
+![img04](https://user-images.githubusercontent.com/64800211/143725413-940d863f-fe76-4c4e-aca5-5ee6a9cad588.jpg)
+![img05](https://user-images.githubusercontent.com/64800211/143725414-2057b4b3-e110-471e-b3c2-8d17e31994bc.jpg)
 
 <br>
 
@@ -21,4 +22,4 @@
 <br>
 
 # 👨‍💻 Site
-#### ◼ Caso queira visualizar o projeto em seu computador, tablet ou celular clique aqui: <a href="https://torrico-agencia-bold.netlify.app">Ver projeto</a>
+#### ◼ Caso queira visualizar o projeto em seu computador, tablet ou celular clique aqui: <a href="https://agencia-marketing-torrico.netlify.app">Ver projeto</a>
